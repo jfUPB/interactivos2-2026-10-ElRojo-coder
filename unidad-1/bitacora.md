@@ -117,3 +117,10 @@ stack(
 ```
 ## Bitácora de reflexión
 
+#### Grafico 
+
+<img width="907" height="663" alt="image" src="https://github.com/user-attachments/assets/4e8227f1-514a-407e-b9f7-106f55bcfe3b" />
+
+
+los visuales escuchan mediante mensajes osc y los convierte json y toda esta comunicación es recibida por web socket y usando timestamp y esto hace que el procesamiento de información no sea cuando es recibida sinó cuando esta deba de utilizarla para sincronizarse con el sonido utiliza el "let event queue para la cola de eventos en el futuro y asï ir ejecutandolos 
+
